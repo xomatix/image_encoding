@@ -1,0 +1,1 @@
+Image encoding is app to encode text message into least significant bit in image  and can be decoded back to text using decoding program. currently tested with .jpg images
